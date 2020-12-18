@@ -1,14 +1,11 @@
 # flutter_list_utils
 
-A new Flutter package project.
+A set of utilities for dart Lists and Maps
 
-## Getting Started
+## Lists
 
-This project is a starting point for a Dart
-[package](https://flutter.dev/developing-packages/),
-a library module containing code that can be shared easily across
-multiple Flutter or Dart projects.
+ListUtils class provide a fast way to merge lists without duplicates
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+## Maps
+
+MapUtils class provide different methods for merging a list into a map without duplicates and adding and removing elements from a map
