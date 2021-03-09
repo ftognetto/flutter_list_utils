@@ -64,6 +64,6 @@ class ListUtils {
 
 
 abstract class Entity {
-  String id;
+  String? id;
   Map<String, dynamic> toJson();
 }
